@@ -3,6 +3,7 @@
     "description": "SteveB27 CustomerQr",
     "require": {
       "php": "~7.3.0||~7.4.0||~8.1.0",
+      "ext-imagick": ">=3.0.0",
       "magento/module-store": "*",
       "magento/module-theme": "*",
       "magento/module-widget": "*",
@@ -18,7 +19,7 @@
             "SteveB27\\CustomerQr\\": ""
         }
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": [
         "OSL-3.0",
         "AFL-3.0"

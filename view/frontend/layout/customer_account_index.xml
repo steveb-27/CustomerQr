@@ -5,4 +5,5 @@
             <block class="SteveB27\CustomerQr\Block\Qrcode" name="customer_account_dashboard_qrcode" as="qrcode" template="SteveB27_CustomerQr::qrcode.phtml" before="-" cacheable="false"/>
         </referenceContainer>
     </body>
+    <update handle="customer_account"/>
 </page>
